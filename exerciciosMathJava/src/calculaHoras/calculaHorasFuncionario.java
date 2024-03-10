@@ -20,6 +20,7 @@ public class calculaHorasFuncionario {
 		System.out.println("number Funcionario:" + ID);
 		System.out.printf("Salario: U$ %.2f%n", Salario);
 		
+		
 		sc.close();
 	}
 

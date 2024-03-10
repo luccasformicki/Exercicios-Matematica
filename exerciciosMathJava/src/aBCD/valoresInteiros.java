@@ -11,6 +11,8 @@ public class valoresInteiros {
 		
 		int A, B, C, D, Diferenca;
 		
+		
+		
 		A = sc.nextInt();	
 		B = sc.nextInt();
 		C = sc.nextInt();

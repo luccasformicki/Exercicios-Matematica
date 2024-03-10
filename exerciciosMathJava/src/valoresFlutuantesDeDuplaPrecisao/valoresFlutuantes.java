@@ -26,6 +26,7 @@ public class valoresFlutuantes {
 		System.out.printf("Trapezio: %.3f%n", Trapezio);
 		System.out.printf("Quadrado: %.3f%n", Quadrado);
 		System.out.printf("retangulo: %.3f%n", Retangulo);
+		
 
 		sc.close();
 	}

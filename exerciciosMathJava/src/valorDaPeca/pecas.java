@@ -26,6 +26,7 @@ public class pecas {
 		System.out.printf("Valor a ser pago: %.2f%n", total);
 		
 		
+		
 		sc.close();
 
 	}

@@ -18,7 +18,6 @@ public class areaCirculo {
 		
 		System.out.printf("circulo é igual a: %.4f%n", circulo);
 		
-		
 		sc.close();
 
 	}
